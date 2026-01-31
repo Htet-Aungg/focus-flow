@@ -7,7 +7,7 @@
 - **Source**: European Journal of Social Psychology  
 - **URL/DOI**: (https://onlinelibrary-wiley-com.uwe.idm.oclc.org/doi/full/10.1002/ejsp.2090)
 - **Reference (UWE Harvard)**:  
-  Oettingen, G., Kappes, H., Guttenberg, K.B. and Gollwitzer, P.M., 2015. Self-regulation of time management: Mental contrasting with implementation intentions. *European Journal of Social Psychology*, 45(2), pp.xxx–xxx.  
+  Oettingen, G., Kappes, H., Guttenberg, K.B. and Gollwitzer, P.M., 2015. Self-regulation of time management: Mental contrasting with implementation intentions. *European Journal of Social Psychology*, 45(2), pp. 218–229.  
 
 ---
 
@@ -29,16 +29,17 @@ The paper tests whether **mental contrasting with implementation intentions (MCI
 ---
 
 ## Quotes to Use in Report
-> “Mental contrasting with implementation intentions (MCII) has been found to improve self‑regulation across many life domains. The present research investigates whether MCII can benefit time management.” (Oettingen et al., 2015, p.XX)  (Oettingen et al., 2015)> “Performing MCII on one’s everyday concerns improved how participants scheduled their time and enhanced self‑reported time management.” (Oettingen et al., 2015, p.XX)  (Oettingen et al., 2015)---
+> "Mental contrasting with implementation intentions (MCII) has been found to improve self‑regulation across many life domains. The present research investigates whether MCII can benefit time management." (Oettingen et al., 2015)
+
+> "Performing MCII on one's everyday concerns improved how participants scheduled their time and enhanced self‑reported time management." (Oettingen et al., 2015)
 
 ## Critique/Limitations
 - Conducted mainly with students and a specific group of working mothers; generalisability to other populations and long‑term effects is uncertain  (Oettingen et al., 2015).  
 - Focuses on self‑report and behavioural indicators over relatively short time frames; does not test digital or app‑based implementations.  
 - Focus Flow can address gaps by testing MCII-style prompts at scale, logging long‑term behavioural data, and adapting the intervention to diverse users and contexts.
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
- 
+
 ## References
  
-Oettingen, G., Kappes, H., Guttenberg, K.B. and Gollwitzer, P.M., 2015. Self-regulation of time management: Mental contrasting with implementation intentions. *European Journal of Social Psychology*, 45(2), pp. 218–229. Available at: https://doi.org/10.1002/ejsp.2090 (Accessed: 31 January 2026).
+Oettingen, G., Kappes, H., Guttenberg, K.B. and Gollwitzer, P.M., 2015. Self-regulation of time management: Mental contrasting with implementation intentions. *European Journal of Social Psychology*, 45(2), pp. 218–229. Available at: https://onlinelibrary-wiley-com.uwe.idm.oclc.org/doi/full/10.1002/ejsp.2090 (Accessed: 31 January 2026).
  

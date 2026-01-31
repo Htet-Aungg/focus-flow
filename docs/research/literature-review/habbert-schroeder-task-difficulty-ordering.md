@@ -23,7 +23,6 @@ Across six experiments plus a supplemental study (N = 2013), the authors test wh
 | Predicted vs. actual efficacy | People *believe* doing hardest tasks later boosts efficacy, but *actually* it lowers or doesn’t improve it  (Habbert and Schroeder, 2020)|  (Habbert and Schroeder, 2020)|
 | Productivity/decision‑making | Hard‑to‑easy order strengthens self‑efficacy, a key driver of persistence and goal‑directed choices  (Habbert and Schroeder, 2020)|  (Habbert and Schroeder, 2020)|
 
-**Figure 1:** Effects of task order on perceived efficacy and behavior.
 
 ---
 
@@ -55,8 +54,6 @@ Across six experiments plus a supplemental study (N = 2013), the authors test wh
 - Laboratory tasks (short, controlled activities) may not fully mirror complex real‑world workloads or long projects, so generalisability to daily knowledge work is limited  (Habbert and Schroeder, 2020).  
 - The paper examines **ordering of difficulty**, not named frameworks like Eisenhower or MoSCoW directly, so applying results to those models is theoretically grounded but indirect  (Habbert and Schroeder, 2020).  
 - Outcomes focus on **self‑efficacy**, not objective performance over weeks or months; your project can address this by logging both *subjective* confidence and *objective* completion/throughput when users adopt “eat‑the‑frog”‑style prioritization.
- 
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
  
 ## References
 

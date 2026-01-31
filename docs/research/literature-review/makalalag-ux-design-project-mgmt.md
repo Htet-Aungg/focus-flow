@@ -2,8 +2,8 @@
 - **Title**: User Interface/User Experience Design for Mobile-Based Project Management Application Using Design Thinking Approach  
 - **Author(s)**: A. H. Makalalag, Y. Ekawardhani, Theresia Valentina Lumban Gaol  
 - **Year**: 2021  
-- **Source**: (Journal not specified in abstract)  
-- **URL/DOI**: (add if you have it)  
+- **Source**: Journal of IT-Education and Research
+- **DOI**: https://doi.org/10.5281/zenodo.5055189  
 - **Reference (UWE Harvard)**:  
   Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. User Interface/User Experience Design for Mobile-Based Project Management Application Using Design Thinking Approach. *[Journal name]*, x(x), pp.xx–xx.  
 
@@ -27,14 +27,14 @@ The study designs a **mobile-based project and task management application** UI/
 ---
 
 ## Quotes to Use in Report
-> “This research is a User Interface/User Experience design for an information system that helps users manage projects and tasks.” (Makalalag et al., 2021, p.XX)  (Makalalag et al., 2021)> “Design thinking provides search directions about user needs, and flat design complements the ease of user experience.” (Makalalag et al., 2021, p.XX)  (Makalalag et al., 2021)---
+> “This research is a User Interface/User Experience design for an information system that helps users manage projects and tasks.” (Makalalag et al., 2021)  (Makalalag et al., 2021)> “Design thinking provides search directions about user needs, and flat design complements the ease of user experience.” (Makalalag et al., 2021,)  (Makalalag et al., 2021)---
 
 ## Critique/Limitations
 - Focuses on design phase; limited empirical data on long‑term productivity or behaviour change  (Makalalag et al., 2021).  
 - Mobile UX is discussed at a high level; few concrete interaction patterns or detailed usability metrics.  
 - Focus Flow can extend this by A/B testing specific focus‑oriented patterns (timers, blocking, nudges) and collecting longitudinal engagement and outcome data.
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
+
  
 ## References
  

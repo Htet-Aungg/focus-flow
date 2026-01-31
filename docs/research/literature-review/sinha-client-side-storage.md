@@ -3,7 +3,7 @@
 - **Author(s)**: Akash Rakesh Sinha  
 - **Year**: 2020  
 - **Source**: International Journal For Multidisciplinary Research  
-- **URL/DOI**: (add if you have it)  
+- **URL/DOI**: (https://doi.org/10.36948/ijfmr.2020.v02i05.12096) 
 - **Reference (UWE Harvard)**:  
   Sinha, A.R., 2020. Navigating client-side storage in modern web applications: mechanisms, best practices, and future directions. *International Journal For Multidisciplinary Research*, x(x), pp.xx–xx.  
 
@@ -27,13 +27,13 @@ The paper surveys **client-side storage mechanisms**—cookies, localStorage, se
 ---
 
 ## Quotes to Use in Report
-> Client-side storage mechanisms “must be selected and configured with careful attention to security, privacy regulations, and application performance requirements.” (Sinha, 2020, p.XX)  (Sinha, 2020)---
+> Client-side storage mechanisms "must be selected and configured with careful attention to security, privacy regulations, and application performance requirements." (Sinha, 2020)
 
 ## Critique/Limitations
 - High-level survey; limited empirical benchmarks or concrete code-level patterns  (Sinha, 2020).  
 - Focuses broadly on many app types, so recommendations for productivity/task apps are not deeply specialized.
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
+
  
 ## References
  

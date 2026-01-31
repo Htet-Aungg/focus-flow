@@ -3,7 +3,7 @@
 - **Author(s)**: Pramod Kumar Sagar, Harsh Singh, Vansh Kabaria, Umesh Dixit  
 - **Year**: 2025  
 - **Source**: International Journal of Advances in Engineering and Management  
-- **URL/DOI**: (add when available)  
+- **URL/DOI**: (https://doi.org/10.35629/5252-0705159164) 
 - **Reference (UWE Harvard)**:  
   Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. Bright human: A smart web application for intelligent task management and productivity optimization. *International Journal of Advances in Engineering and Management*, 7(?, ?), pp.xx–xx.  
 
@@ -27,14 +27,15 @@ The paper presents **BrightHuman**, a smart web‑based task management applicat
 ---
 
 ## Quotes to Use in Report
-> “BrightHuman categorizes tasks into categories, such as Work, Personal, Health, using NLP.” (Sagar et al., 2025, p.XX)  (Sagar et al., 2025)> “The performance of the Brighthuman application shows improvement in the completion efficiency of tasks by 25%… Usability tests of different user groups report positive usability results, satisfying IEEE 9241 standards of Human-Computer Interaction.” (Sagar et al., 2025, p.XX)  (Sagar et al., 2025)---
+> "BrightHuman categorizes tasks into categories, such as Work, Personal, Health, using NLP." (Sagar et al., 2025)
+
+> "The performance of the Brighthuman application shows improvement in the completion efficiency of tasks by 25%… Usability tests of different user groups report positive usability results, satisfying IEEE 9241 standards of Human-Computer Interaction." (Sagar et al., 2025)
 
 ## Critique/Limitations
 - Focuses on web‑based task management; less discussion of mobile UX patterns, micro‑interactions, or distraction management that are critical for a focus app.  
 - UX evaluation details are fairly high‑level; limited insight into qualitative pain points or long‑term adherence.  
 - Focus Flow can extend this work by: prioritising distraction‑free modes, modelling deep‑work sessions (not just tasks), and running longitudinal UX studies on habit formation and sustained focus.
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
  
 ## References
  

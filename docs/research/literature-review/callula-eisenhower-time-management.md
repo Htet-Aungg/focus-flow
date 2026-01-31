@@ -1,5 +1,3 @@
-## **The Eisenhower Matrix and Productivity:** Structured review of one source
-
 ## Source Information  
 - **Title**: A Structural Framework for Effective Time Management in Dynamic Work Environments  
 - **Author(s)**: Brigitta Callula, Eirene Sana, Greisy Jacqueline, Julia Nathalie, Lily Maria  
@@ -47,7 +45,6 @@ The paper proposes a **time‑management framework** that combines prioritizatio
 
 > “The framework’s adaptability is highlighted by a 25% reduction in project turnaround time and a 30% increase in project visibility across diverse professional contexts.” (Callula et al., 2024, Abstract)  
 
-*(Replace p.X with real page numbers.)*  
 
 ---
 
@@ -59,9 +56,8 @@ The paper proposes a **time‑management framework** that combines prioritizatio
 
 Your project can address these gaps by: logging which technique is used per task, tracking both objective performance and subjective workload/stress, and comparing Eisenhower‑based flows against alternatives like MoSCoW or “Eat the Frog.”
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
- 
+
 ## References
  
-Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, 8(2), pp. 142–158.
+Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, 8(2), pp. 151–158.
  

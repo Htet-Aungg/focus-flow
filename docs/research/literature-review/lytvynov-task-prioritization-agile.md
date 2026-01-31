@@ -43,11 +43,10 @@ The paper reviews **modern task prioritization methods** used in agile software 
 
 ## Quotes to Use in Report  
 
-> “Among the considered prioritization methods, which take into account the opinion of the development team, there are such popular and actively used nowadays methods as MoSCoW, story map (User story mapping) and proactive improvement.” (Lytvynov et al., 2020, p.XX)  
+> “Among the considered prioritization methods, which take into account the opinion of the development team, there are such popular and actively used nowadays methods as MoSCoW, story map (User story mapping) and proactive improvement.” (Lytvynov et al., 2020)  
 
-> “Depending on the features of the project… one or several prioritization methods can be used at the same time or in combination.” (Lytvynov et al., 2020, p.XX)  
+> “Depending on the features of the project… one or several prioritization methods can be used at the same time or in combination.” (Lytvynov et al., 2020)  
 
-*(Replace p.XX with actual page numbers.)*  
 
 ---
 
@@ -57,9 +56,8 @@ The paper reviews **modern task prioritization methods** used in agile software 
 - Focused on **software projects**, so transfer to personal productivity or generic task apps is reasoned but indirect  (Lytvynov et al., 2020).  
 - Does not cover Eisenhower Matrix or “Eat the Frog”; your project can integrate these and log comparative outcomes (completion rate, decision time, perceived workload) to fill that empirical gap.
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
  
 ## References
  
-Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, 2, pp. 70–78. Available at: https://doi.org/10.34121/1028-9763-2020-2-70-78 (Accessed: 31 January 2026).
+Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, 2, pp. 70–78. Available at: https://www.researchgate.net/publication/348138757_Task_prioritization_methods_in_flexible_software_development_methodologies (Accessed: 31 January 2026).
  

@@ -54,7 +54,7 @@ ISO/IEC 9126-1 defines a **software product quality model** that decomposes qual
 - Empirical work notes some ambiguity and overlap among 9126 attributes, requiring tailoring and clear definitions for consistent use  (Jung, Kim and Chung, 2004; Vetrò et al., 2012).  
 - For modern systems, 9126 is best used as a **conceptual scaffold**; detailed NFRs and metrics should, where possible, be cross‑checked against the newer ISO/IEC 25010/2502x measurement standards  (Gobov and Zuieva, 2025; Valdés-Souto, Nunez-Varela and Pérez-González, 2019; Birla, 2014).
  
-_These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
+
  
 ## References
  
