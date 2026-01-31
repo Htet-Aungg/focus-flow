@@ -37,11 +37,5 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 ## References
  
-Sinha, A. (2020). Navigating Client-Side Storage in Modern Web Applications: Mechanisms, Best Practices, and Future Directions. *International Journal For Multidisciplinary Research*. https://doi.org/10.36948/ijfmr.2020.v02i05.12096
- 
-Al-Rousan, T., Al-Shargabi, B., & Abualese, H. (2019). A New Security Model for Web Browser Local Storage. *International Journal of Advanced Computer Science and Applications*. https://doi.org/10.14569/ijacsa.2019.0100830
- 
-Al-Rousan, T. (2019). An Investigation of User Privacy and Data Protection on User-Side Storage. *Int. J. Online Biomed. Eng.*, 15, 17-30. https://doi.org/10.3991/ijoe.v15i09.10669
- 
-MacFadden, M., & Qiu, M. (2022). Performance Impacts of JavaScript-Based Encryption of HTML5 Web Storage for Enhanced Privacy. *2022 IEEE 7th International Conference on Smart Cloud (SmartCloud)*, 190-196. https://doi.org/10.1109/smartcloud55982.2022.00037
+Sinha, A.R., 2020. Navigating client-side storage in modern web applications: mechanisms, best practices, and future directions. *International Journal For Multidisciplinary Research*, 2(5), pp. 1–12. Available at: https://doi.org/10.36948/ijfmr.2020.v02i05.12096 (Accessed: 31 January 2026).
  

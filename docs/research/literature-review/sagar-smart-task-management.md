@@ -38,5 +38,5 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 ## References
  
-Sagar, P., Singh, H., Kabaria, V., & Dixit, U. (2025). Bright human: A Smart Web Application for Intelligent Task Management and Productivity Optimization. *International Journal of Advances in Engineering and Management*. https://doi.org/10.35629/5252-0705159164
+Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. Bright human: A smart web application for intelligent task management and productivity optimization. *International Journal of Advances in Engineering and Management*, 7(5), pp. 159–164. Available at: https://doi.org/10.35629/5252-0705159164 (Accessed: 31 January 2026).
  

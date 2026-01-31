@@ -1,13 +1,13 @@
 ﻿# Focus Flow - Project Timeline
 
 ## Overview
-**Project Duration**: October 2024 – April 2025 (approx. 26 weeks)  
-**Submission Deadline**: 30th April (2PM GMT +1 )
+**Project Duration**: October 2025 – April 2026 (approx. 26 weeks)  
+**Submission Deadline**: 30th April 2026 (2PM GMT +1)
 
 ---
 
 ## Phase 1: Project Initiation (Weeks 1-4)
-**Oct 7 – Nov 3, 2024**
+**Oct 7 – Nov 3, 2025**
 
 ### Tasks
 - Attend Lectures 1-4 (Choosing a project, Research Ethics, Research Methods, Methodology)
@@ -24,44 +24,44 @@
 ---
 
 ## Phase 2: Research & Ethics (Weeks 5-12)
-**Nov 4, 2024 – Jan 12, 2025**
+**Nov 4, 2025 – Jan 12, 2026**
 
 ### Tasks
-**Weeks 5-6** (Nov 4-17):
+**Weeks 5-6** (Nov 4-17, 2025):
 - Attend Lectures 5-6 (Finding Information, Critical Writing & Referencing)
 - Begin literature search (ACM Digital Library, IEEE Xplore, Google Scholar)
 - Complete ethics checklist
 - Submit ethics checklist to supervisor
 
-**Weeks 7-8** (Nov 18-Dec 1):
+**Weeks 7-8** (Nov 18-Dec 1, 2025):
 - Attend Lectures 7-8 (Referencing tools, Design Thinking)
 - Receive ethics approval
 - Analyze 3-5 existing task management tools (case studies)
 - Create literature review notes using templates
 
-**Weeks 9-10** (Dec 2-15):
+**Weeks 9-10** (Dec 2-15, 2025):
 - Attend Lectures 9-10 (Information Architecture, Case Studies & Technology Selection)
 - Complete Pugh matrix for framework selection
 - Research React documentation and LocalStorage API
 - Draft requirements from use cases
 
-**Week 11** (Dec 16-22):
+**Week 11** (Dec 16-22, 2025):
 - Attend Lecture 11 (Requirements and Testing)
 - Finalize functional and non-functional requirements
 - Create use case diagrams
 
-**Week 12** (Dec 23-29):
+**Week 12** (Dec 23-29, 2025):
 - **REVIEW WEEK** - consolidate research notes
 - Organize literature review documents
 - Prepare for development phase
 
-**Winter Break** (Dec 30, 2024 - Jan 12, 2025):
+**Winter Break** (Dec 30, 2025 - Jan 12, 2026):
 - Review React tutorials
 - Set up development environment
 - Draft Chapter 2 (Method) and Chapter 3 (Research)
 
 ### Deliverables
-- ✅ Ethics approval received
+- Ethics approval received
 - Completed literature review (10-15 sources documented)
 - Case study analysis of 3-5 tools
 - Requirements document finalized
@@ -72,7 +72,7 @@
 ---
 
 ## Phase 3: Setup & Planning (Weeks 13-14)
-**Jan 13 – Jan 26, 2025**
+**Jan 13 – Jan 26, 2026**
 
 ### Tasks
 - Set up Git repository on GitHub
@@ -93,10 +93,10 @@
 ---
 
 ## Phase 4: Core Development (Weeks 15-22)
-**Jan 27 – Mar 23, 2025**
+**Jan 27 – Mar 23, 2026**
 
 ### Sprint 1 (Weeks 15-16): Basic CRUD
-**Jan 27 - Feb 9**
+**Jan 27 - Feb 9, 2026**
 - Implement FR1: Create task (form with validation)
 - Implement FR2: View task list (display component)
 - Implement FR4: Delete task (with confirmation)
@@ -105,7 +105,7 @@
 - **Supervisor meeting**: Demo CRUD operations
 
 ### Sprint 2 (Weeks 17-18): Edit & Complete
-**Feb 10 - Feb 23**
+**Feb 10 - Feb 23, 2026**
 - Implement FR3: Edit task (inline or modal editing)
 - Implement FR5: Mark task complete/incomplete (toggle)
 - Implement FR10: Auto-save on changes
@@ -114,7 +114,7 @@
 - **Supervisor meeting**: Demo edit functionality
 
 ### Sprint 3 (Weeks 19-20): Sorting & Filtering
-**Feb 24 - Mar 9**
+**Feb 24 - Mar 9, 2026**
 - Implement FR6: Sort by estimated time (ascending)
 - Implement FR7: Filter by completion status (all/complete/incomplete)
 - Implement FR8: Filter by priority level (P1/P2/P3/all)
@@ -123,7 +123,7 @@
 - **Supervisor meeting**: Demo sorting/filtering
 
 ### Sprint 4 (Weeks 21-22): Polish & Edge Cases
-**Mar 10 - Mar 23**
+**Mar 10 - Mar 23, 2026**
 - Handle empty state (no tasks)
 - Implement NFR5 (LocalStorage quota error handling)
 - Responsive design for tablet/desktop (NFR8)
@@ -142,17 +142,17 @@
 ---
 
 ## Phase 5: Testing & Refinement (Weeks 23-26)
-**Mar 24 – Apr 20, 2025**
+**Mar 24 – Apr 20, 2026**
 
 ### Tasks
-**Weeks 23-24** (Mar 24 - Apr 6):
+**Weeks 23-24** (Mar 24 - Apr 6, 2026):
 - Comprehensive manual testing across browsers
 - Performance testing (NFR9: 200ms render for 100 tasks)
 - Accessibility testing (keyboard navigation, contrast)
 - Create Requirements Traceability Matrix
 - Screenshot all features for report
 
-**Weeks 25-26** (Apr 7 - Apr 20):
+**Weeks 25-26** (Apr 7 - Apr 20, 2026):
 - Fix bugs identified in testing
 - Implement Could-Have features if time permits (NFR6, NFR10)
 - Final code review and refactoring
@@ -172,20 +172,20 @@
 ---
 
 ## Phase 6: Report Writing (Weeks 27-29)
-**Apr 21 – May 11, 2025**
+**Apr 21 – Apr 30, 2026**
 
 ### Tasks
-**Week 27** (Apr 21-27):
+**Week 27** (Apr 21-27, 2026):
 - Finalize Chapter 1 (Introduction) using project proposal
 - Finalize Chapter 2 (Method): tools, methodology, risks, Git strategy
 - Finalize Chapter 3 (Research): literature review, case studies, Pugh matrix
 
-**Week 28** (Apr 28 - May 4):
+**Week 28** (Apr 28 - Apr 30, 2026):
 - Finalize Chapter 4 (Requirements): use cases, FRs, NFRs
 - Finalize Chapter 5 (Design & Development): architecture, code snippets, UML diagrams
 - Finalize Chapter 6 (Results): screenshots, testing evidence, RTM
 
-**Week 29** (May 5-11):
+**Week 29** (Apr 30, 2026):
 - Write Chapter 7 (Conclusion): critical reflection using Gibbs' model
 - Add References section (UWE Harvard style)
 - Add Appendices (ethics form, use case diagrams)
@@ -204,7 +204,7 @@
 ---
 
 ## Phase 7: Final Submission (Week 30)
-**May 12 – May 18, 2025**
+**Apr 30, 2026**
 
 ### Tasks
 - Incorporate supervisor's final feedback
@@ -230,7 +230,7 @@
 ## Gantt Chart
 
 ```
-Phase/Task                    Oct   Nov   Dec   Jan   Feb   Mar   Apr   May
+Phase/Task                    Oct   Nov   Dec   Jan   Feb   Mar   Apr
 ================================================================================
 Phase 1: Initiation          ████
   Lectures 1-4               ████
@@ -263,8 +263,8 @@ Phase 6: Report Writing                                                         
 
 Phase 7: Submission                                                                         ██
 ================================================================================
-Supervisor Meetings          ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼
-                            Oct  Nov  Dec  Jan  Feb  Feb  Mar  Mar  Apr  May
+Supervisor Meetings          ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼
+                            Oct  Nov  Dec  Jan  Feb  Feb  Mar  Mar  Apr
 ```
 
 ---
@@ -273,17 +273,16 @@ Supervisor Meetings          ▼    ▼    ▼    ▼    ▼    ▼    ▼    �
 
 | Date | Milestone |
 |------|-----------|
-| **Oct 14** | Project proposal submitted |
-| **Nov 4** | Ethics checklist submitted |
-| **Nov 18** | Ethics approval received |
-| **Dec 15** | Requirements finalized |
-| **Jan 26** | Development environment ready |
-| **Feb 9** | Basic CRUD complete |
-| **Mar 9** | Sorting/filtering complete |
-| **Mar 23** | All Must-Have features complete |
-| **Apr 20** | Testing complete |
-| **May 11** | Report draft complete |
-| **May 18** | **Final submission** |
+| **Oct 14, 2025** | Project proposal submitted |
+| **Nov 4, 2025** | Ethics checklist submitted |
+| **Nov 18, 2025** | Ethics approval received |
+| **Dec 15, 2025** | Requirements finalized |
+| **Jan 26, 2026** | Development environment ready |
+| **Feb 9, 2026** | Basic CRUD complete |
+| **Mar 9, 2026** | Sorting/filtering complete |
+| **Mar 23, 2026** | All Must-Have features complete |
+| **Apr 20, 2026** | Testing complete |
+| **Apr 30, 2026** | **Final submission** |
 
 ---
 
@@ -291,16 +290,16 @@ Supervisor Meetings          ▼    ▼    ▼    ▼    ▼    ▼    ▼    �
 
 | Meeting # | Week | Date (approx) | Agenda |
 |-----------|------|---------------|--------|
-| 1 | 2 | Oct 14 | Discuss project topic and scope |
-| 2 | 6 | Nov 11 | Review ethics checklist and research plan |
-| 3 | 10 | Dec 9 | Review requirements and tech selection |
-| 4 | 14 | Jan 20 | Review project setup and sprint plan |
-| 5 | 16 | Feb 3 | Demo Sprint 1 (CRUD) |
-| 6 | 18 | Feb 17 | Demo Sprint 2 (Edit) |
-| 7 | 20 | Mar 3 | Demo Sprint 3 (Sort/Filter) |
-| 8 | 22 | Mar 17 | Demo Sprint 4 (Complete app) |
-| 9 | 26 | Apr 14 | Discuss testing results and report progress |
-| 10 | 29 | May 5 | Review final report draft |
+| 1 | 2 | Oct 14, 2025 | Discuss project topic and scope |
+| 2 | 6 | Nov 11, 2025 | Review ethics checklist and research plan |
+| 3 | 10 | Dec 9, 2025 | Review requirements and tech selection |
+| 4 | 14 | Jan 20, 2026 | Review project setup and sprint plan |
+| 5 | 16 | Feb 3, 2026 | Demo Sprint 1 (CRUD) |
+| 6 | 18 | Feb 17, 2026 | Demo Sprint 2 (Edit) |
+| 7 | 20 | Mar 3, 2026 | Demo Sprint 3 (Sort/Filter) |
+| 8 | 22 | Mar 17, 2026 | Demo Sprint 4 (Complete app) |
+| 9 | 26 | Apr 14, 2026 | Discuss testing results and report progress |
+| 10 | 29 | Apr 30, 2026 | Review final report draft |
 
 **Format**: 20-30 minutes, bring demo/progress update/blockers
 
@@ -351,7 +350,7 @@ Supervisor Meetings          ▼    ▼    ▼    ▼    ▼    ▼    ▼    �
 ## Holidays & Reading Weeks
 
 - **Reading Week**: Week 12 (Dec 23-29) - consolidate research
-- **Christmas Break**: Dec 30, 2024 - Jan 12, 2025 - optional study time
+- **Christmas Break**: Dec 30, 2025 - Jan 12, 2026 - optional study time
 - **Easter Break**: Check UWE calendar (typically early April) - allocated to testing phase
 
 ---

@@ -40,7 +40,7 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 MacFadden, M., & Qiu, M., 2022. Performance Impacts of JavaScript-Based Encryption of HTML5 Web Storage for Enhanced Privacy. *2022 IEEE 7th International Conference on Smart Cloud (SmartCloud)*, pp. 190-196. https://doi.org/10.1109/smartcloud55982.2022.00037
  
-West, W., & Pulimood, S., 2012. Analysis of privacy and security in HTML5 web storage. *J. Comput. Sci. Coll.*, 27, pp. 80-87. https://doi.org/10.5555/2038772.2038791
+West, W. and Pulimood, S.M., 2012. Analysis of privacy and security in HTML5 web storage. *Journal of Computer Science in Colleges*, 27, pp. 80–87. Available at: https://doi.org/10.5555/2038772.2038791 (Accessed: 31 January 2026).
  
 Myeong, H., Paik, J., & Lee, D., 2012. Study on implementation of Secure HTML5 Local Storage. **, 13, pp. 83-93. https://doi.org/10.7472/jksii.2012.13.4.83
  

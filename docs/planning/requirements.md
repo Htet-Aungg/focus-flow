@@ -69,6 +69,56 @@ Based on ISO/IEC 9126 Software Engineering: Product Quality
 
 ---
 
+## Use Cases
+
+### UC1: Create Task
+- **Primary Actor**: User
+- **Preconditions**: App is open; user is on task list.
+- **Main Flow**:
+	1. User selects “Add Task”.
+	2. User enters title, description, estimated time, and priority.
+	3. User saves the task.
+	4. System validates input and adds the task to the list.
+	5. System persists the task to LocalStorage.
+- **Alternate Flows**:
+	- 3a. Missing/invalid fields → system shows validation errors.
+
+### UC2: Edit Task
+- **Primary Actor**: User
+- **Preconditions**: At least one task exists.
+- **Main Flow**:
+	1. User selects “Edit” on a task.
+	2. User updates fields.
+	3. User saves changes.
+	4. System updates the task and persists changes.
+- **Alternate Flows**:
+	- 3a. User cancels → no changes saved.
+
+### UC3: Complete Task
+- **Primary Actor**: User
+- **Preconditions**: At least one task exists.
+- **Main Flow**:
+	1. User toggles a task to complete.
+	2. System updates status and persists changes.
+
+### UC4: Prioritise/Filter Tasks
+- **Primary Actor**: User
+- **Preconditions**: At least one task exists.
+- **Main Flow**:
+	1. User selects sort by estimated time or filters by priority/status.
+	2. System updates the task list in real time.
+
+### UC5: Delete Task
+- **Primary Actor**: User
+- **Preconditions**: At least one task exists.
+- **Main Flow**:
+	1. User selects “Delete” on a task.
+	2. System asks for confirmation.
+	3. User confirms deletion.
+	4. System removes the task and persists changes.
+
+---
+
 ## Acceptance Criteria (Sample for FR1)
 
 **FR1**: Users shall be able to create a new task.

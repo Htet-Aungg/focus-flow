@@ -59,6 +59,6 @@ Across six experiments plus a supplemental study (N = 2013), the authors test wh
 _These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires copyright holders’ consent._
  
 ## References
- 
-Habbert, R., & Schroeder, J., 2020. To build efficacy, eat the frog first: People misunderstand how the difficulty-ordering of tasks influences efficacy. *Journal of Experimental Social Psychology*, 91, pp. 104032. https://doi.org/10.1016/j.jesp.2020.104032
+
+Habbert, R. and Schroeder, J., 2020. To build efficacy, eat the frog first: People misunderstand how the difficulty-ordering of tasks influences efficacy. *Journal of Experimental Social Psychology*, 91, pp. 104032. Available at: https://doi.org/10.1016/j.jesp.2020.104032 (Accessed: 31 January 2026).
  

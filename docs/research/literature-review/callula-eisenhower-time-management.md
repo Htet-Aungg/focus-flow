@@ -63,5 +63,5 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 ## References
  
-Callula, B., Sana, E., Jacqueline, G., Nathalie, J., & Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*. https://pdfs.semanticscholar.org/51dc/bfb516eb72281837f2dcede32d16abd69fa9.pdf
+Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, 8(2), pp. 142–158.
  

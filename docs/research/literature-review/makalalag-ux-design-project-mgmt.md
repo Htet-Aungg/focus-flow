@@ -38,5 +38,5 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 ## References
  
-Makalalag, A., Ekawardhani, Y., Gaol, T., & Info, A. (2021). User Interface/User Experience Design for Mobile-Based Project Management Application Using Design Thinking Approach. **, 4, 269-274. https://doi.org/10.5281/zenodo.5055189
+Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. User Interface/User Experience Design for Mobile-Based Project Management Application Using Design Thinking Approach. *Journal of IT-Education and Research*, 4(12), pp. 269–274. Available at: https://doi.org/10.5281/zenodo.5055189 (Accessed: 31 January 2026).
  

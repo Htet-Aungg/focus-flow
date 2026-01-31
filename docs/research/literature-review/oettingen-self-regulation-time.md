@@ -40,5 +40,5 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 ## References
  
-Oettingen, G., Kappes, H., Guttenberg, K., & Gollwitzer, P., 2015. Self-regulation of time management: mental contrasting with implementation intentions. *European Journal of Social Psychology*, 45, pp. 218-229. https://doi.org/10.1002/ejsp.2090
+Oettingen, G., Kappes, H., Guttenberg, K.B. and Gollwitzer, P.M., 2015. Self-regulation of time management: Mental contrasting with implementation intentions. *European Journal of Social Psychology*, 45(2), pp. 218–229. Available at: https://doi.org/10.1002/ejsp.2090 (Accessed: 31 January 2026).
  

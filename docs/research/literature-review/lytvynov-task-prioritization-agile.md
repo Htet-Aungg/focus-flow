@@ -61,5 +61,5 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 ## References
  
-Lytvynov, V., Bogdan, I., Zadorozhnyi, A., & Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, 2, pp. 70-78. https://www.researchgate.net/publication/348138757_Task_prioritization_methods_in_flexible_software_development_methodologies
+Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, 2, pp. 70–78. Available at: https://doi.org/10.34121/1028-9763-2020-2-70-78 (Accessed: 31 January 2026).
  

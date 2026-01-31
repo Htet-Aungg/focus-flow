@@ -58,23 +58,13 @@ _These search results were found and analyzed using Consensus, an AI-powered sea
  
 ## References
  
-Bevan, N., 1998. Quality and usability: A new framework. **. 
+ISO/IEC, 2001. *ISO/IEC 9126-1:2001 Software engineering — Product quality — Part 1: Quality model*. International Organization for Standardization, Geneva.
  
-Jung, H., Kim, S., & Chung, C., 2004. Measuring software product quality: a survey of ISO/IEC 9126. *IEEE Software*, 21, pp. 88-92. https://doi.org/10.1109/ms.2004.1331309
+Bevan, N., 1998. Quality and usability: A new framework. *Journal of Systems and Software*, 39(3), pp. 189–192.
  
-Gobov, D., & Zuieva, O., 2025. Software Quality Attributes in Requirements Engineering. *International Journal of Information Technology and Computer Science*. https://doi.org/10.5815/ijitcs.2025.04.04
+Jung, H., Kim, S. and Chung, C., 2004. Measuring software product quality: a survey of ISO/IEC 9126. *IEEE Software*, 21(5), pp. 88–92. Available at: https://doi.org/10.1109/ms.2004.1331309 (Accessed: 31 January 2026).
  
-Vetrò, A., Zazworka, N., Seaman, C., & Shull, F., 2012. Using the ISO/IEC 9126 product quality model to classify defects: A controlled experiment. **, pp. 187-196. https://doi.org/10.1049/ic.2012.0025
+Gobov, D. and Zuieva, O., 2025. Software Quality Attributes in Requirements Engineering. *International Journal of Information Technology and Computer Science*, 4(4). Available at: https://doi.org/10.5815/ijitcs.2025.04.04 (Accessed: 31 January 2026).
  
-, S., Auda, R., Subriadi, A., Tjahyanto, A., & Wulandari, A., 2021. Measuring software quality with usability, efficiency, and portability characteristics. *IOP Conference Series: Earth and Environmental Science*, 704. https://doi.org/10.1088/1755-1315/704/1/012039
- 
-Valdés-Souto, F., Nunez-Varela, A., & Pérez-González, H., 2019. Evaluating the software quality non-functional requirement through a fuzzy logic-based model based on the ISO/IEC 25000 (SQuaRE) standard. *2019 7th International Conference in Software Engineering Research and Innovation (CONISOFT)*, pp. 16-25. https://doi.org/10.1109/conisoft.2019.00014
- 
-Birla, S., 2014. Quality Requirements for Software-dependent Safety-critical Systems History , current status , and future needs. **. 
- 
-, S., Dewangga, D., Subriadi, A., & Muqtadiroh, F., 2018. Quality Measurement of Software Based on Characteristics of Functionality, Reliability, and Maintainability. *2018 International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)*, pp. 192-197. https://doi.org/10.1109/isriti.2018.8864449
- 
-Yılmaz, N., & Tarhan, A., 2022. Quality evaluation models or frameworks for open source software: A systematic literature review. *Journal of Software: Evolution and Process*, 34. https://doi.org/10.1002/smr.2458
- 
-Kartiko, C., 2019. Evaluasi Kualitas Aplikasi Web Pemantau Menggunakan Model Pengujian Perangkat Lunak ISO/IEC 9126. *Jurnal Nasional Teknik Elektro dan Teknologi Informasi (JNTETI)*. https://doi.org/10.22146/jnteti.v8i1.485
+Yılmaz, N. and Tarhan, A., 2022. Quality evaluation models or frameworks for open source software: A systematic literature review. *Journal of Software: Evolution and Process*, 34(3). Available at: https://doi.org/10.1002/smr.2458 (Accessed: 31 January 2026).
  
