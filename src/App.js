@@ -25,13 +25,17 @@ function App() {
     deleteTask(taskId);
   };
 
+  const handleUpdateTask = (taskId, updates) => {
+    updateTask(taskId, updates);
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       {/* Header */}
       <header className="bg-white shadow-md">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <h1 className="text-4xl font-bold text-blue-600">
-            🎯 Focus Flow
+             Focus Flow
           </h1>
           <p className="text-gray-600 mt-1">
             Prioritize work, identify quick wins, stay focused
@@ -49,6 +53,7 @@ function App() {
           tasks={tasks}
           onToggleComplete={handleToggleComplete}
           onDelete={handleDeleteTask}
+          onUpdate={handleUpdateTask}
         />
       </main>
 
@@ -56,7 +61,7 @@ function App() {
       <footer className="bg-white border-t border-gray-200 mt-12">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-sm text-gray-600">
           <p>
-            Focus Flow v0.1.0 - UWE Bristol Software Development Project
+            foucs flow &copy; {new Date().getFullYear()} |
           </p>
         </div>
       </footer>
