@@ -1,70 +1,175 @@
-# Getting Started with Create React App
+# Focus Flow
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A web-based task management application that helps students prioritize work using estimated completion time and priority levels.
 
-## Available Scripts
+**Author**: Htet Aung (23077314)  
+**Institution**: UWE Bristol  
+**Module**: UFCFFF-30-3 Software Development Project  
+**Supervisor**: Sami Abuezhayeh  
+**Academic Year**: 2025-26
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Project Status
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Current Phase**: Core Development (Jan 27 - Mar 23, 2026)  
+**Status Date**: Feb 5, 2026
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] Project proposal submitted
+- [x] Ethics checklist submitted
+- [x] Ethics approval received
+- [x] Requirements finalized
+- [x] Technology selection complete
+- [x] Development environment configured
+- [x] Project structure documented
+- [x] Development started
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Overview
 
-### `npm run build`
+Focus Flow addresses the gap in task management tools that lack effective time-based prioritization. The application enables users to:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Create tasks with estimated completion time and priority levels
+- Sort tasks by time to identify "quick wins"
+- Filter by priority (P1/P2/P3) and completion status
+- Persist data locally without requiring account creation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech Stack
 
-### `npm run eject`
+- **Frontend**: React 18+
+- **Styling**: Tailwind CSS
+- **Storage**: LocalStorage API
+- **Code Quality**: ESLint + Prettier
+- **Testing**: Jest + React Testing Library
+- **Version Control**: Git + GitHub
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Planned Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Must-Have (Minimum Viable Product - Sprint 1-4)
+- ✅ Create, read, update, delete tasks (CRUD)
+- ✅ Assign priority levels (P1/P2/P3)
+- ✅ Estimate completion time for each task
+- ✅ Sort by estimated time
+- ✅ Filter by priority and completion status
+- ✅ LocalStorage persistence
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Should-Have
+- Responsive design (desktop + tablet)
+- Cross-browser compatibility
+- Accessibility features
 
-## Learn More
+### Could-Have
+- Dark mode
+- Task categories/tags
+- Export to CSV
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Project Timeline
 
-### Code Splitting
+| Phase | Duration | Status |
+|-------|----------|--------|
+| Project Initiation | Oct 7 - Nov 3, 2025 | Complete |
+| Research & Ethics | Nov 4, 2025 - Jan 12, 2026 | Complete |
+| Setup & Planning | Jan 13 - Jan 26, 2026 | Complete |
+| Core Development | Jan 27 - Mar 23, 2026 | In Progress |
+| Testing & Refinement | Mar 24 - Apr 20, 2026 | Upcoming |
+| Report Writing | Apr 21 - Apr 30, 2026 | Upcoming |
+| Final Submission | Apr 30, 2026 | Upcoming |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+See [docs/planning/project-timeline.md](docs/planning/project-timeline.md) for detailed schedule.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Development Setup
 
-### Making a Progressive Web App
+### Prerequisites
+- Node.js LTS (v18+)
+- npm (v9+)
+- Git
+- Visual Studio Code
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Quick Start
 
-### Advanced Configuration
+```bash
+# Install dependencies
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Start development server (http://localhost:3000)
+npm start
 
-### Deployment
+# Run tests
+npm test
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Build for production
+npm run build
 
-### `npm run build` fails to minify
+# Lint code
+npx eslint src/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Format code
+npx prettier --write src/
+```
+
+### Project Structure
+
+```
+src/
+├── components/          # React components
+│   ├── TaskForm.js     # Form to add new tasks
+│   ├── TaskList.js     # List with filtering and sorting
+│   ├── Task.js         # Individual task item
+│   └── index.js        # Component exports
+├── hooks/              # Custom React hooks
+│   ├── useLocalStorage.js  # LocalStorage management
+│   └── index.js        # Hook exports
+├── App.js    # Main application component
+├── App.css   # Global styles
+└── index.js  # App entry point
+
+public/       # Static assets (HTML, favicon, etc.)
+docs/         # Documentation and planning
+```
+
+---
+
+## Documentation
+
+- [Project Proposal](docs/planning/project-proposal.md)
+- [Requirements](docs/planning/requirements.md)
+- [Research Plan](docs/research/research-plan.md)
+- [Project Timeline](docs/planning/project-timeline.md)
+- [Ethics Checklist](docs/planning/ethics-checklist.md)
+
+---
+
+## Git Workflow
+
+All features are developed incrementally with meaningful commits:
+
+```bash
+# Example commit messages
+git commit -m "feat: add task deletion with confirmation"
+git commit -m "fix: localStorage persistence on app refresh"
+git commit -m "test: add unit tests for TaskList component"
+```
+
+---
+
+## License
+
+MIT License - See [LICENSE](LICENSE) for details.
+
+---
+
+## Contact
+
+**Student**: Htet Aung  
+**Email**: htet4.aung@Live.uwe.ac.uk  
+**Supervisor**: Sami Abuezhayeh  
+**GitHub**: https://github.com/Htet-Aungg/focus-flow
