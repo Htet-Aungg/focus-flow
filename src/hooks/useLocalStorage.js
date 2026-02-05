@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 /**
  * Custom hook for managing tasks in localStorage
@@ -6,6 +6,7 @@ import { useState, useEffect } from 'react';
  */
 export const useLocalStorage = () => {
   const [tasks, setTasks] = useState([]);
+  const isInitialMount = useRef(true);
   const STORAGE_KEY = 'focusFlowTasks';
 
   // Load tasks from localStorage on mount
@@ -17,11 +18,16 @@ export const useLocalStorage = () => {
       }
     } catch (error) {
       console.error('Failed to load tasks from localStorage:', error);
+    } finally {
+      isInitialMount.current = false;
     }
   }, []);
 
-  // Save tasks to localStorage whenever they change
+  // Save tasks to localStorage whenever they change (skip initial mount)
   useEffect(() => {
+    if (isInitialMount.current) {
+      return;
+    }
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(tasks));
     } catch (error) {
