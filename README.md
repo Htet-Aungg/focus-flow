@@ -1,114 +1,70 @@
-# Focus Flow
+# Getting Started with Create React App
 
-> A web-based task management application that helps students prioritize work using estimated completion time and priority levels.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Author**: Htet Aung (23077314)  
-**Institution**: UWE Bristol  
-**Module**: UFCFFF-30-3 Software Development Project  
-**Supervisor**: Sami Abuezhayeh  
-**Academic Year**: 2025-26
+## Available Scripts
 
----
+In the project directory, you can run:
 
-## Project Status
+### `npm start`
 
-**Current Phase**: Research & Planning (October 2024 - January 2025)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- [x] Project proposal submitted
-- [x] Ethics checklist submitted
-- [ ] Ethics approval received
-- [ ] Requirements finalized
-- [ ] Technology selection complete
-- [ ] Development started
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
----
+### `npm test`
 
-## Project Overview
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Focus Flow addresses the gap in task management tools that lack effective time-based prioritization. The application will enable users to:
+### `npm run build`
 
-- Create tasks with estimated completion time and priority levels
-- Sort tasks by time to identify "quick wins"
-- Filter by priority (P1/P2/P3) and completion status
-- Persist data locally without requiring account creation
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
----
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Planned Features
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Must-Have (Minimum Viable Product)
--  Create, read, update, delete tasks (CRUD)
--  Assign priority levels (P1/P2/P3)
--  Estimate completion time for each task
--  Sort by estimated time
--  Filter by priority and completion status
--  LocalStorage persistence
+### `npm run eject`
 
-### Should-Have
-- Responsive design (desktop + tablet)
-- Cross-browser compatibility
-- Accessibility features
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Could-Have
-- Dark mode
-- Task categories/tags
-- Export to CSV
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
----
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## Tech Stack (Planned)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- **Frontend**: React 
-- **Storage**: LocalStorage API
-- **Styling**: CSS Modules / Tailwind CSS (TBD)
-- **Testing**: Jest + React Testing Library
-- **Version Control**: Git + GitHub
-- **Development**: Visual Studio Code
+## Learn More
 
-*Final selection to be confirmed in January 2025 after Pugh matrix evaluation.*
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
----
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Project Timeline
+### Code Splitting
 
-| Phase | Duration | Status |
-|-------|----------|--------|
-| Project Initiation | Oct 7 - Nov 3, 2024 |  Complete |
-| Research & Ethics | Nov 4, 2024 - Jan 12, 2025 |  In Progress |
-| Setup & Planning | Jan 13 - Jan 26, 2025 |  Upcoming |
-| Core Development | Jan 27 - Mar 23, 2025 |  Upcoming |
-| Testing & Refinement | Mar 24 - Apr 20, 2025 |  Upcoming |
-| Report Writing | Apr 21 - Apr 28, 2025 |  Upcoming |
-| Final Submission | Apr 29 - Apr 30, 2025 |  Upcoming |
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-See [docs/planning/project-timeline.md](docs/planning/project-timeline.md) for detailed schedule.
+### Analyzing the Bundle Size
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## Documentation
+### Making a Progressive Web App
 
-- [Project Proposal](docs/planning/project-proposal.md)
-- [Requirements](docs/planning/requirements.md)
-- [Research Plan](docs/research/research-plan.md)
-- [Project Timeline](docs/planning/project-timeline.md)
-- [Ethics Checklist](docs/planning/ethics-checklist.md)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
----
+### Advanced Configuration
 
-## Development Setup
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-*Instructions to be added in January 2025 when development begins.*
+### Deployment
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-## License
+### `npm run build` fails to minify
 
-MIT License - See [LICENSE](LICENSE) for details.
-
----
-
-## Contact
-
-**Student**: Htet Aung  
-**Email**: htet4.aung@Live.uwe.ac.uk  
-**Supervisor**: Sami Abuezhayeh
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
