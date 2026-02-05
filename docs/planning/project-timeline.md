@@ -6,12 +6,6 @@
 
 ---
 
-## Status Update (Feb 5, 2026)
-- Phase 3 completed: Git repository initialized with meaningful commits, development environment configured, project structure documented, timeline updated.
-- Phase 4 in progress: Sprint 1 (CRUD) underway (Jan 27 - Feb 9).
-
----
-
 ## Phase 1: Project Initiation (Weeks 1-4)
 **Oct 7 – Nov 3, 2025**
 
@@ -231,47 +225,6 @@
 ### Time Allocation
 **10-15 hours** (final review + submission prep)
 
----
-
-## Gantt Chart
-
-```
-Phase/Task                    Oct   Nov   Dec   Jan   Feb   Mar   Apr
-================================================================================
-Phase 1: Initiation          ████
-  Lectures 1-4               ████
-  Proposal                   ████
-
-Phase 2: Research                 ████████████████████
-  Lectures 5-12                   ████████████
-  Literature Review               ████████████████████
-  Ethics Approval                 ████
-  Case Studies                         ████████
-  Requirements                              ████████
-
-Phase 3: Setup                                        ████
-  Git & Environment                                   ████
-
-Phase 4: Development                                      ████████████████
-  Sprint 1 (CRUD)                                         ████
-  Sprint 2 (Edit)                                             ████
-  Sprint 3 (Sort/Filter)                                          ████
-  Sprint 4 (Polish)                                                   ████
-
-Phase 5: Testing                                                          ████████
-  Manual Testing                                                          ████
-  Bug Fixes                                                                   ████
-
-Phase 6: Report Writing                                                         ████████
-  Chapters 1-3                                                                  ████
-  Chapters 4-6                                                                      ████
-  Chapter 7 + Polish                                                                    ████
-
-Phase 7: Submission                                                                         ██
-================================================================================
-Supervisor Meetings          ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼    ▼
-                            Oct  Nov  Dec  Jan  Feb  Feb  Mar  Mar  Apr
-```
 
 ---
 
@@ -359,12 +312,3 @@ Supervisor Meetings          ▼    ▼    ▼    ▼    ▼    ▼    ▼    �
 - **Christmas Break**: Dec 30, 2025 - Jan 12, 2026 - optional study time
 - **Easter Break**: Check UWE calendar (typically early April) - allocated to testing phase
 
----
-
-## Notes
-
-- Workload increases from **6 hrs/week (Oct-Nov)** to **22 hrs/week (Feb-Mar)**
-- This reflects realistic final-year project patterns
-- Other modules are lighter in Term 2, allowing more SDP time
-- Supervisor meetings every 2 weeks ensure regular progress checks
-- Report chapters drafted incrementally to avoid May bottleneck

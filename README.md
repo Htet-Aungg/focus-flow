@@ -51,12 +51,12 @@ Focus Flow addresses the gap in task management tools that lack effective time-b
 ## Planned Features
 
 ### Must-Have (Minimum Viable Product - Sprint 1-4)
-- ✅ Create, read, update, delete tasks (CRUD)
-- ✅ Assign priority levels (P1/P2/P3)
-- ✅ Estimate completion time for each task
-- ✅ Sort by estimated time
-- ✅ Filter by priority and completion status
-- ✅ LocalStorage persistence
+-  Create, read, update, delete tasks (CRUD)
+-  Assign priority levels (P1/P2/P3)
+-  Estimate completion time for each task
+-  Sort by estimated time
+-  Filter by priority and completion status
+-  LocalStorage persistence
 
 ### Should-Have
 - Responsive design (desktop + tablet)
@@ -163,7 +163,7 @@ git commit -m "test: add unit tests for TaskList component"
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details.
+MIT License - See [LICENSE] for details.
 
 ---
 
