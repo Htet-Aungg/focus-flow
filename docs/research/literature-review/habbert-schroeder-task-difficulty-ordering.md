@@ -6,7 +6,7 @@
 - **Source**: Journal of Experimental Social Psychology  
 - **URL/DOI**: https://doi.org/10.1016/j.jesp.2020.104032 
 - **Reference (UWE Harvard)**:  
-  Habbert, R. and Schroeder, J., 2020. To build efficacy, eat the frog first: People misunderstand how the difficulty-ordering of tasks influences efficacy. *Journal of Experimental Social Psychology*, 91, 104077.  
+Habbert, R. and Schroeder, J., 2020. To build efficacy, eat the frog first: People misunderstand how the difficulty-ordering of tasks influences efficacy. *Journal of Experimental Social Psychology*, 91, pp. 104032. Available at: https://doi.org/10.1016/j.jesp.2020.104032 (Accessed: 31 January 2026).
 
 ---
 
@@ -58,4 +58,4 @@ Across six experiments plus a supplemental study (N = 2013), the authors test wh
 ## References
 
 Habbert, R. and Schroeder, J., 2020. To build efficacy, eat the frog first: People misunderstand how the difficulty-ordering of tasks influences efficacy. *Journal of Experimental Social Psychology*, 91, pp. 104032. Available at: https://doi.org/10.1016/j.jesp.2020.104032 (Accessed: 31 January 2026).
- 
+

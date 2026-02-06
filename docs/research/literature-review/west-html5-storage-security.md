@@ -5,7 +5,8 @@
 - **Source**: Journal of Computer Science in Colleges  
 - **URL/DOI**: https://dl.acm.org/doi/10.5555/2038772.2038791
 - **Reference (UWE Harvard)**:  
-  West, W. and Pulimood, S.M., 2012. Analysis of privacy and security in HTML5 web storage. *Journal of Computer Science in Colleges*.  
+West, W. and Pulimood, S.M., 2012. Analysis of privacy and security in HTML5 web storage. *Journal of Computer Science in Colleges*, 27(3), pp. 80–87. Available at: https://dl.acm.org/doi/10.5555/2038772.2038791 (Accessed: 31 January 2026).
+
 
 ---
 
@@ -42,7 +43,8 @@ The paper examines **HTML5 Web Storage** (`localStorage` and `sessionStorage`) a
  
 MacFadden, M., & Qiu, M., 2022. Performance Impacts of JavaScript-Based Encryption of HTML5 Web Storage for Enhanced Privacy. *2022 IEEE 7th International Conference on Smart Cloud (SmartCloud)*, pp. 190-196. https://doi.org/10.1109/smartcloud55982.2022.00037
  
-West, W. and Pulimood, S.M., 2012. Analysis of privacy and security in HTML5 web storage. *Journal of Computer Science in Colleges*, 27, pp. 80–87. Available at: https://dl.acm.org/doi/10.5555/2038772.2038791 (Accessed: 31 January 2026).
+
+West, W. and Pulimood, S.M., 2012. Analysis of privacy and security in HTML5 web storage. *Journal of Computer Science in Colleges*, 27(3), pp. 80–87. Available at: https://dl.acm.org/doi/10.5555/2038772.2038791 (Accessed: 31 January 2026).
 
  
 Jemel, M., & Serhrouchni, A., 2014. Security enhancement of HTML5 Local Data Storage. *2014 International Conference and Workshop on the Network of the Future (NOF)*, pp. 1-2. https://doi.org/10.1109/nof.2014.7119784

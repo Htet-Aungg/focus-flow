@@ -5,7 +5,7 @@
 - **Source**: International Journal For Multidisciplinary Research  
 - **URL/DOI**: (https://doi.org/10.36948/ijfmr.2020.v02i05.12096) 
 - **Reference (UWE Harvard)**:  
-  Sinha, A.R., 2020. Navigating client-side storage in modern web applications: mechanisms, best practices, and future directions. *International Journal For Multidisciplinary Research*, x(x), pp.xx–xx.  
+Sinha, A.R., 2020. Navigating client-side storage: Cookies, local storage, session storage, and IndexedDB. *Medium*.2(5),  Available at: https://doi.org/10.36948/ijfmr.2020.v02i05.12096 (Accessed: 31 January 2026).
 
 ---
 
@@ -36,6 +36,4 @@ The paper surveys **client-side storage mechanisms**—cookies, localStorage, se
 
  
 ## References
- 
-Sinha, A.R., 2020. Navigating client-side storage in modern web applications: mechanisms, best practices, and future directions. *International Journal For Multidisciplinary Research*, 2(5), pp. 1–12. Available at: https://doi.org/10.36948/ijfmr.2020.v02i05.12096 (Accessed: 31 January 2026).
- 
+Sinha, A.R., 2020. Navigating client-side storage: Cookies, local storage, session storage, and IndexedDB. *Medium*.2(5),  Available at: https://doi.org/10.36948/ijfmr.2020.v02i05.12096 (Accessed: 31 January 2026).

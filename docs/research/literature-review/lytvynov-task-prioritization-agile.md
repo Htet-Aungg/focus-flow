@@ -7,7 +7,7 @@
 - **Source**: Multimedia Systems  
 - **DOI**: 10.34121/1028-9763-2020-2-70-78  
 - **Reference (UWE Harvard)**:  
-  Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, 2, pp.70–78.  
+Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, Available at: https://www.researchgate.net/publication/348138757_Task_prioritization_methods_in_flexible_software_development_methodologies (Accessed: 31 January 2026).
 
 ---
 
@@ -59,5 +59,5 @@ The paper reviews **modern task prioritization methods** used in agile software 
  
 ## References
  
-Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, 2, pp. 70–78. Available at: https://www.researchgate.net/publication/348138757_Task_prioritization_methods_in_flexible_software_development_methodologies (Accessed: 31 January 2026).
+Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, Available at: https://www.researchgate.net/publication/348138757_Task_prioritization_methods_in_flexible_software_development_methodologies (Accessed: 31 January 2026).
  

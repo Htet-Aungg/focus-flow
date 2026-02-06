@@ -50,11 +50,9 @@ The following technologies were selected based on project requirements, learning
 - **Prettier:** Automatic code formatting to improve readability and maintainability (NFR11)
 
 **Version Control: Git + GitHub**
-- **Repository hosting:** GitHub for remote backup and version history tracking
-- **Commit conventions:** Descriptive commit messages documenting changes made (e.g., "add task editing feature", "fix localStorage persistence issue")
-- **Workflow:** Direct commits to `main` branch during solo development; simplified workflow appropriate for single-developer academic project; all changes tracked for reproducibility and demonstration during supervisor meetings
-- **Rationale:** Feature branching and semantic commit conventions were not adopted due to solo development context and time constraints; simpler linear workflow reduced overhead while maintaining version history for project audit trail
-
+- Repository structure: `src/`, `docs/`, `tests/`, `public/`
+- Branching strategy: Feature branches merged to `main` after testing
+- Meaningful commit messages following convention: `feat:`, `fix:`, `docs:`, `test:`
 
 ### 2.3.2 Testing Tools
 
@@ -110,18 +108,16 @@ focus-flow/
 └── README.md         # Installation and usage instructions
 ```
 
-
 **Commit conventions:**
-- Descriptive commit messages documenting changes made (e.g., "add task editing feature", "fix localStorage persistence issue")
+- `feat:` for new features (e.g., `feat: add task prioritisation filter`)
+- `fix:` for bug fixes (e.g., `fix: resolve LocalStorage quota error handling`)
+- `docs:` for documentation updates
+- `test:` for test additions or modifications
 
-**Workflow:**
-- Direct commits to `main` branch during solo development
-- Simplified workflow appropriate for single-developer academic project
-- All changes tracked for reproducibility and demonstration during supervisor meetings
-
-**Rationale:**
-Feature branching and semantic commit conventions were not adopted due to solo development context and time constraints; simpler linear workflow reduced overhead while maintaining version history for project audit trail.
-
+**Branching strategy:**
+- `main` branch contains stable, tested code
+- Feature branches (e.g., `feature/sorting`, `feature/edit-task`) merged via pull requests after local testing
+- No direct commits to `main` without verification
 
 ### 2.6.2 Documentation Strategy
 

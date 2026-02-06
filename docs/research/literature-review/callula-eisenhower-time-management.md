@@ -5,7 +5,7 @@
 - **Source**: APTISI Transactions on Management (ATM)  
 - **URL/DOI**: https://pdfs.semanticscholar.org/51dc/bfb516eb72281837f2dcede32d16abd69fa9.pdf 
 - **Reference (UWE Harvard)**:  
-  Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, [online] 8(2), pp.xx–xx.  
+Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, pp. 152.Available at: https://pdfs.semanticscholar.org/51dc/bfb516eb72281837f2dcede32d16abd69fa9.pdf  (Accessed: 31 January 2026) 
 
 ---
 
@@ -59,5 +59,4 @@ Your project can address these gaps by: logging which technique is used per task
 
 ## References
  
-Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, 8(2), pp. 151–158.
- 
+Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, pp. 152.Available at: https://pdfs.semanticscholar.org/51dc/bfb516eb72281837f2dcede32d16abd69fa9.pdf  (Accessed: 31 January 2026) 

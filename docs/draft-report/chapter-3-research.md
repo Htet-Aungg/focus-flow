@@ -12,7 +12,7 @@ A comprehensive literature review was conducted to establish theoretical foundat
 
 **Habbert and Schroeder (2020)** investigated the impact of task ordering on self-efficacy. Their experimental research found that people predict leaving hard tasks for later improves efficacy, but **hard-to-easy ordering actually improves self-efficacy more effectively**. This "eat the frog first" principle supports the design of Focus Flow's prioritisation features (FR6–FR8), which encourage users to tackle high-priority or time-consuming tasks earlier in the day.
 
-> "Participants who completed harder tasks first reported higher self-efficacy and sustained motivation compared to those who started with easier tasks" (Habbert and Schroeder, 2020, p. 104032).
+> "Participants who completed harder tasks first reported higher self-efficacy and sustained motivation compared to those who started with easier tasks" (Habbert and Schroeder, 2020).
 
 **Lytvynov et al. (2020)** compared task prioritisation methods in agile software development, including MoSCoW (Must have, Should have, Could have, Won't have) and Kano models. Their analysis revealed that **opinion-driven methods (MoSCoW) and metric-driven methods (Kano) can be combined** for more robust prioritisation. This informed Focus Flow's three-level priority system (P1/P2/P3), which balances simplicity with flexibility.
 
@@ -106,10 +106,10 @@ Three popular task management applications were analysed to identify industry be
 | Feature | Microsoft To-Do | Todoist | Trello | Focus Flow Decision |
 |---------|----------------|---------|--------|---------------------|
 | Priority Levels | Binary (flagged/unflagged) | P1–P4 | Labels (manual) | **P1–P3** (balanced granularity) |
-| Daily Focus View | ✅ My Day | ✅ Today view | ❌ (board-based) | ✅ Default view shows all tasks |
-| Completion Tracking | ✅ Checkboxes | ✅ Checkboxes | ✅ Drag to "Done" | ✅ Toggle complete/incomplete (FR5) |
-| Offline Support | ❌ (cloud-dependent) | ❌ (cloud-dependent) | ❌ (cloud-dependent) | ✅ **LocalStorage (FR9)** |
-| Sorting/Filtering | Limited | Advanced | Manual | ✅ **By time, status, priority (FR6–FR8)** |
+| Daily Focus View |  My Day |  Today view |  (board-based) |  Default view shows all tasks |
+| Completion Tracking |  Checkboxes |  Checkboxes |  Drag to "Done" |  Toggle complete/incomplete (FR5) |
+| Offline Support |  (cloud-dependent) |  (cloud-dependent) |  (cloud-dependent) |  **LocalStorage (FR9)** |
+| Sorting/Filtering | Limited | Advanced | Manual |  **By time, status, priority (FR6–FR8)** |
 
 **Key Insight**: All three competitors rely on cloud storage and user accounts. Focus Flow's **offline-first, localStorage-based architecture** fills a niche for users who prefer local data control and browser-based simplicity.
 
@@ -190,7 +190,7 @@ Vue.js was a close second but offered less portfolio value. Angular was eliminat
 - **Deployment complexity**: App store submission, testing on multiple devices
 - **Learning curve**: React Native differs from React; would require additional study
 
-**Rejection rationale**: Web app provides broader accessibility (works on any device with a browser) and aligns with UWE module's web development focus.
+**Rejection rationale**: Web app provides broader accessibility (works on any device with a browser).
 
 ### 3.5.4 Selected Approach Justification
 
@@ -210,20 +210,20 @@ The next chapter (Chapter 4) translates these research insights into formal requ
 
 ## References
 
-Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Implementing the Eisenhower Matrix as a Project Management Tool. *International Journal of Advanced Computer Science and Applications*, 15(10), pp. 651–660. Available at: https://doi.org/10.14569/IJACSA.2024.0151068 (Accessed: 31 January 2026).
+Callula, B., Sana, E., Jacqueline, G., Nathalie, J. and Maria, L., 2024. A Structural Framework for Effective Time Management in Dynamic Work Environments. *APTISI Transactions on Management (ATM)*, pp. 152.Available at: https://pdfs.semanticscholar.org/51dc/bfb516eb72281837f2dcede32d16abd69fa9.pdf  (Accessed: 31 January 2026) 
 
 Habbert, R. and Schroeder, J., 2020. To build efficacy, eat the frog first: People misunderstand how the difficulty-ordering of tasks influences efficacy. *Journal of Experimental Social Psychology*, 91, pp. 104032. Available at: https://doi.org/10.1016/j.jesp.2020.104032 (Accessed: 31 January 2026).
 
-ISO/IEC, 2001. *ISO/IEC 9126-1:2001 Software engineering — Product quality — Part 1: Quality model*. Geneva: International Organization for Standardization. Available at: https://www.iso.org/standard/22749.html (Accessed: 31 January 2026).
+ISO/IEC, 2001. *ISO/IEC 9126-1:2001 Software engineering — Product quality — Part 1: Quality model*. International Organization for Standardization, Geneva.   (Accessed: 31 January 2026).
 
-Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritisation methods in requirements engineering. *Ukrainian Journal of Educational Studies and Information Technology*, 8(4), pp. 27–43. Available at: https://doi.org/10.32919/uesit.2020.04.03 (Accessed: 31 January 2026).
+Lytvynov, V., Bogdan, I., Zadorozhnyi, A. and Bilous, I., 2020. Task prioritization methods in flexible software development methodologies. *Multimedia Systems*, Available at: https://www.researchgate.net/publication/348138757_Task_prioritization_methods_in_flexible_software_development_methodologies (Accessed: 31 January 2026).
 
-Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. UX design of mobile-based project management application using design thinking method. *Jurnal Ilmu Komputer dan Sistem Informasi*, 9(1), pp. 34–43. Available at: https://doi.org/10.24912/jiksi.v9i1.11436 (Accessed: 31 January 2026).
+Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. UX design of mobile-based project management application using design thinking method. *Jurnal Ilmu Komputer dan Sistem Informasi*, 4(2). Available at: https://doi.org/10.5281/zenodo.5055189 (Accessed: 31 January 2026).
 
 Oettingen, G., Kappes, H., Guttenberg, K.B. and Gollwitzer, P.M., 2015. Self-regulation of time management: Mental contrasting with implementation intentions. *European Journal of Social Psychology*, 45(2), pp. 218–229. Available at: https://doi.org/10.1002/ejsp.2090 (Accessed: 31 January 2026).
 
-Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. BrightHuman: Development of a Smart Task Management Application with Natural Language Processing, Chatbot Integration, and Interactive Dashboards. *International Research Journal of Modernization in Engineering Technology and Science*, 07(01), pp. 2006–2015. Available at: https://doi.org/10.56726/IRJMETS66631 (Accessed: 31 January 2026).
+Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. BrightHuman: Development of a Smart Task Management Application with Natural Language Processing, Chatbot Integration, and Interactive Dashboards. *International Research Journal of Modernization in Engineering Technology and Science*, 07(01), pp. 159-164. Available at: https://doi.org/10.35629/5252-0705159164 (Accessed: 31 January 2026).
 
-Sinha, A.R., 2020. Navigating client-side storage: Cookies, local storage, session storage, and IndexedDB. *Medium*. Available at: https://medium.com/@amanrsinha19/navigating-client-side-storage-cookies-local-storage-session-storage-and-indexeddb-6f16bd1c315a (Accessed: 31 January 2026).
+Sinha, A.R., 2020. Navigating client-side storage: Cookies, local storage, session storage, and IndexedDB. *Medium*.2(5),  Available at: https://doi.org/10.36948/ijfmr.2020.v02i05.12096 (Accessed: 31 January 2026).
 
-West, W. and Pulimood, S.M., 2012. Analysis of privacy and security in HTML5 web storage. *Journal of Computer Science in Colleges*, 27, pp. 80–87. Available at: https://doi.org/10.5555/2038772.2038791 (Accessed: 31 January 2026).
+West, W. and Pulimood, S.M., 2012. Analysis of privacy and security in HTML5 web storage. *Journal of Computer Science in Colleges*, 27(3), pp. 80–87. Available at: https://dl.acm.org/doi/10.5555/2038772.2038791 (Accessed: 31 January 2026).

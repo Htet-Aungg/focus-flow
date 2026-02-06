@@ -5,7 +5,7 @@
 - **Source**: International Journal of Advances in Engineering and Management  
 - **URL/DOI**: (https://doi.org/10.35629/5252-0705159164) 
 - **Reference (UWE Harvard)**:  
-  Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. Bright human: A smart web application for intelligent task management and productivity optimization. *International Journal of Advances in Engineering and Management*, 7(?, ?), pp.xx–xx.  
+Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. BrightHuman: Development of a Smart Task Management Application with Natural Language Processing, Chatbot Integration, and Interactive Dashboards. *International Research Journal of Modernization in Engineering Technology and Science*, 07(01), pp. 159-164. Available at: https://doi.org/10.35629/5252-0705159164 (Accessed: 31 January 2026).
 
 ---
 
@@ -39,5 +39,5 @@ The paper presents **BrightHuman**, a smart web‑based task management applicat
  
 ## References
  
-Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. Bright human: A smart web application for intelligent task management and productivity optimization. *International Journal of Advances in Engineering and Management*, 7(5), pp. 159–164. Available at: https://doi.org/10.35629/5252-0705159164 (Accessed: 31 January 2026).
+Sagar, P.K., Singh, H., Kabaria, V. and Dixit, U., 2025. BrightHuman: Development of a Smart Task Management Application with Natural Language Processing, Chatbot Integration, and Interactive Dashboards. *International Research Journal of Modernization in Engineering Technology and Science*, 07(01), pp. 159-164. Available at: https://doi.org/10.35629/5252-0705159164 (Accessed: 31 January 2026).
  

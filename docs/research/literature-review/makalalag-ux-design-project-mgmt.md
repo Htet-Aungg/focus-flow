@@ -5,7 +5,8 @@
 - **Source**: Journal of IT-Education and Research
 - **DOI**: https://doi.org/10.5281/zenodo.5055189  
 - **Reference (UWE Harvard)**:  
-  Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. User Interface/User Experience Design for Mobile-Based Project Management Application Using Design Thinking Approach. *[Journal name]*, x(x), pp.xx–xx.  
+Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. UX design of mobile-based project management application using design thinking method. *Jurnal Ilmu Komputer dan Sistem Informasi*, 4(2). Available at: https://doi.org/10.5281/zenodo.5055189 (Accessed: 31 January 2026).
+
 
 ---
 
@@ -38,5 +39,5 @@ The study designs a **mobile-based project and task management application** UI/
  
 ## References
  
-Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. User Interface/User Experience Design for Mobile-Based Project Management Application Using Design Thinking Approach. *Journal of IT-Education and Research*, 4(12), pp. 269–274. Available at: https://doi.org/10.5281/zenodo.5055189 (Accessed: 31 January 2026).
- 
+Makalalag, A.H., Ekawardhani, Y. and Lumban Gaol, T.V., 2021. UX design of mobile-based project management application using design thinking method. *Jurnal Ilmu Komputer dan Sistem Informasi*, 4(2). Available at: https://doi.org/10.5281/zenodo.5055189 (Accessed: 31 January 2026).
+
